@@ -1,0 +1,60 @@
+{
+  "projectType": "saas",
+  "projectName": "2du",
+  "projectDescription": "A location-based mobile experience platform that aggregates local news, travel, entertainment, and business content for any location worldwide.",
+  "theme": "almond",
+  "primaryColor": "#692623",
+  "lightColor": "#ac9692",
+  "darkColor": "#ddd5d1",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "download",
+          "getting-around"
+        ]
+      },
+      {
+        "group": "Core Features",
+        "pages": [
+          "features/experience-platform",
+          "features/local-search",
+          "features/in-app-purchasing",
+          "features/business-services"
+        ]
+      },
+      {
+        "group": "Plans & Pricing",
+        "pages": [
+          "pricing",
+          "for-businesses"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "faq",
+          "contact"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Location-based content discovery showing 200 closest websites for any location worldwide",
+    "Aggregates multimedia from YouTube, Google, TripAdvisor, Yelp, Airbnb, and 100+ platforms",
+    "Local business map search by category, name, keyword, or brand (500,000+ listings)",
+    "In-app purchasing with location-relevant products, hotels, tickets, and experiences",
+    "BizDetails landing pages for member businesses with LIVE customer support",
+    "Proximity-triggered loyalty programs for local businesses",
+    "Email campaigns to nearby interested users"
+  ],
+  "publicApiSurface": [
+    "Location-based content feed",
+    "Map search (category, name, keyword, brand)",
+    "BizDetails business profile pages",
+    "In-app purchasing / e-commerce integrations",
+    "Business membership portal"
+  ]
+}

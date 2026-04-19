@@ -1,0 +1,46 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "almond",
+  "name": "2du",
+  "favicon": "https://media.brand.dev/d83ab1a5-610a-40e9-868a-43c2406656a0.png",
+  "colors": {
+    "primary": "#692623",
+    "light": "#ac9692",
+    "dark": "#ddd5d1"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "introduction",
+          "download",
+          "getting-around"
+        ]
+      },
+      {
+        "group": "Core Features",
+        "pages": [
+          "features/experience-platform",
+          "features/local-search",
+          "features/in-app-purchasing",
+          "features/business-services"
+        ]
+      },
+      {
+        "group": "Plans & Pricing",
+        "pages": [
+          "pricing",
+          "for-businesses"
+        ]
+      },
+      {
+        "group": "Support",
+        "pages": [
+          "faq",
+          "contact"
+        ]
+      }
+    ]
+  }
+}
